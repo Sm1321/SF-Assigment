@@ -14,5 +14,4 @@ Key Requirements:
 Bonus:
 - Use AI/ML to predict next month’s expenses or savings trends.
 
-Please submit your work as a Jupyter Notebook or Python script, along with visualizations and a short explanation of your approach.
 
